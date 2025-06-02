@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ovramenko Andrii — Frontend Developer
 
-<!--
-**AnOvramenko/AnOvramenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 React | TypeScript | Redux Toolkit | SCSS | JavaScript | HTML | Git
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Front-end:** React, Redux Toolkit, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, MUI  
+- **Tools:** Vite, Git, Figma, VS Code, ESLint, Prettier  
+- **Teamwork:** Jira, Scrum, GitHub Projects  
+- **Concepts:** Atomic Design, Responsive Layouts, REST API, Dark/Light Themes, Custom Hooks
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What drives me?
+
+- Designing an intuitive and accessible UI
+- Creating scalable front-end architecture
+- Learning and applying modern technologies
+- Collaborating in cross-functional teams
+
+---
+
+## 📫 Get in Touch
+
+- GitHub: [AnOvramenko](https://github.com/AnOvramenko/)
+- LinkedIn: [Andrii Ovramenko](https://www.linkedin.com/in/andrii-ovramenko-495841360/)  
+- Email: andrii.ovramenko.work@gmail.com 
+
+---
+
+_Thanks for visiting my profile!_
