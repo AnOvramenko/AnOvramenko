@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Ovramenko Andrii — Frontend Developer
 
-💻 React | TypeScript | Redux Toolkit | SCSS | JavaScript | HTML | Git
+💻 React | TypeScript | Redux Toolkit | SCSS | JavaScript | HTML | React Native
 ---
 
 ## 🛠️ Tech Stack
-- **Front-end:** React, Redux Toolkit, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, MUI  
+- **Front-end:** React, Redux Toolkit, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind, MUI  
 - **Tools:** Vite, Git, Figma, VS Code, ESLint, Prettier  
 - **Teamwork:** Jira, Scrum, GitHub Projects  
-- **Concepts:** Atomic Design, Responsive Layouts, REST API, Dark/Light Themes, Custom Hooks
+- **Concepts:** Atomic Design, Responsive Layouts, REST API, KIS, DRY
 ---
 
 ## 🧠 What drives me?
